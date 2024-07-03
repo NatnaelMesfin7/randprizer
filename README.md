@@ -1,6 +1,5 @@
 <!-- TITLE -->
 <p align="center"> 
-  <img width="100px" src="https://github.com/celo-org/celo-composer/blob/main/images/readme/celo_isotype.svg" align="center" alt="Celo" />
  <h2 align="center">Randprizer</h2>
  <p align="center">A random reward Distributer</p>
 </p>
