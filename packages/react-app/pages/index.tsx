@@ -31,7 +31,7 @@ export default function Home() {
                     Your address: {userAddress}
                 </div>
             ) : (
-                <div>No Wallet Connected</div>
+                <div>This is a</div>
             )}
         </div>
     );
